@@ -7,6 +7,10 @@
   src: local("Avenir LT Std"), url(../font/AvenirLTStd-Black.woff) format("woff");
 }
 
+*:focus {
+  outline: none;
+}
+
 body {
   margin: 0;
   font-family: "Gulroy", "Avenir LT Std";
@@ -365,9 +369,4 @@ hr {
   background: -webkit-linear-gradient(190deg, rgba(255, 0, 247, 1) 0%, rgba(252, 158, 0, 1) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-
-/* Tabs Style */
-.ic-tabs:hover {
-  fill: white;
 }

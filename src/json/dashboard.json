@@ -32,7 +32,7 @@
   "product": {
     "id": 1,
     "title": "Product Sold",
-    "icon": "/images/product_sold.png",
+    "icon": "/images/produk_sold.png",
     "value": "24 Sold",
     "imageUrl": "/images/name-image.png",
     "visitoroneweek": "56 visitor",
